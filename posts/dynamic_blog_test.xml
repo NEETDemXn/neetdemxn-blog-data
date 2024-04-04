@@ -3,7 +3,7 @@
   <blogtitle>Dynamic Blog Title</blogtitle>
   <blogdate>04-03-2024</blogdate>
   <blogheader>
-    <headerimg>https://raw.githubusercontent.com/NEETdemon/neocities/dynamic_blog/blog/posts_1/giphy.webp</headerimg>
+    <imgname>giphy.webp</imgname>
     <headeralt>Just a test! Hello :3</headeralt>
   </blogheader>
   <blogcontent>
