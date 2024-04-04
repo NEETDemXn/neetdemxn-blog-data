@@ -47,8 +47,7 @@
     &lt;br /&gt;
     &lt;span class="font-bold text-lg"&gt;UPDATE:&lt;/span&gt;
     &lt;br /&gt;
-    Well'p I did it. I made the client-side JavaScript fetch the data from my GitHub.
-    &lt;br /&gt;
-    You could read more about it &lt;a href="/blog/post.html?title=dynamic_blog"&gt;HERE!&lt;/a&gt;
+    Well'p I did it. I made the client-side JavaScript fetch the data from my GitHub. You could read more about it 
+    &lt;a href="/blog/post.html?title=dynamic_blog"&gt;&lt;span class="underline"&gt;HERE!&lt;/span&gt;&lt;/a&gt;
   </blogcontent>
 </blogpost>
