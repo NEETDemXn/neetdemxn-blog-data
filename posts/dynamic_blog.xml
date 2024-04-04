@@ -32,8 +32,8 @@
     &lt;br /&gt;
     &lt;br /&gt;
     Starting in "neetdemon-blog-data", each post is basically one big XML file. Since I need to use some HTML, I use decoded tags as a replacement
-    for special character such as "<" or ">" to prevent any errors from happening when parsing the XML to HTML. It's a little tedious but I don't
-    mind it.
+    for special character such as the lesser-than symbol or the greater-than symbol to prevent any errors from happening when parsing the XML to HTML. 
+    It's a little tedious but I don't mind it.
     &lt;br /&gt;
     &lt;br /&gt;
     &lt;img src="https://raw.githubusercontent.com/NEETdemon/neetdemon-blog-data/main/img/dynamic_blog/neetdemon_github_blogjs.png" alt="A picture of the Javascript code on the blog index page." class="content-img" /&gt;
